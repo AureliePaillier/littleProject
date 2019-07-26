@@ -1,0 +1,58 @@
+{
+  "jobs": [
+    {
+      "id": 1
+    },
+    {
+      "title": "A new job",
+      "name": "John Doe",
+      "id": 2
+    },
+    {
+      "title": "",
+      "company": "Boulanger",
+      "city": "Lille",
+      "zipcode": "59000",
+      "description": "",
+      "contractType": {
+        "label": ""
+      },
+      "startDate": "2019-07-26T09:54:25.606Z",
+      "publishedDate": "2019-07-26T09:54:25.606Z",
+      "id": 3
+    },
+    {
+      "title": "Boulanger",
+      "company": "Le Bel ",
+      "city": null,
+      "zipcode": null,
+      "description": null,
+      "contractType": null,
+      "startDate": null,
+      "publishedDate": null,
+      "id": 4
+    },
+    {
+      "title": "Boulanger",
+      "company": "Le bel Epi",
+      "city": "Lille",
+      "zipcode": "59000",
+      "description": "Grand choix",
+      "contractType": 5,
+      "startDate": null,
+      "publishedDate": null,
+      "id": 5
+    },
+    {
+      "title": "Livreur",
+      "company": "Deliveeroo",
+      "city": "Lille",
+      "zipcode": "59000",
+      "description": null,
+      "contractType": 4,
+      "startDate": "2019-07-25T22:00:00.000Z",
+      "publishedDate": null,
+      "id": 6
+    }
+  ]
+}
